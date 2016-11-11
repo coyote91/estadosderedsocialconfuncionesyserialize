@@ -1,0 +1,181 @@
+/*******************COVER-IMAGE**************/
+.cajacontenidotimeline
+{
+	
+	border:1px solid #ccc;
+	width:890px;
+	min-height:230px;
+	height:auto;
+	position:relative;
+	margin:0 auto;
+	
+	
+}	
+	
+#coverimagen
+{
+width:850px;
+height:202px;
+position:relative;
+margin: 0 auto;
+background-color:orange;
+
+}
+
+ 
+#cajaglobalcoversinimagen
+{
+position:relative;
+width:851px;
+min-height:160px;
+height:auto;
+ 
+background-color:rgb(213, 214, 217);
+border-bottom-color:rgba(0,0,0,0.4);
+}
+ 
+.coversinimagen
+{
+background:url("../imagenes/background-cover.png") repeat-x left bottom scroll transparent;
+}
+ 
+ 
+ 
+#cajaglobalfootercoverinformacion
+{
+width:649px;
+min-height:41px;
+height:43px;
+position:relative;
+top:160px;
+padding-left:201px;
+background-color:#FFFFFF;
+z-index:4;
+display:block;
+clear:right;
+}
+ 
+/*****END-COVER-IMAGE**********/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/*******CAJA-FOTO-PERFIL***********/
+ 
+#cajafotoperfil
+{
+width:160px;
+height:160px;
+padding:1px;
+background: red/*none repeat scroll 0% 0% rgba (0, 0, 0 , 0.3)*/;
+position:absolute;
+z-index:14;
+top:-143px;
+left:15px;
+border:4px solid #FFF;
+border-radius:2px;
+-moz-border-radius:2px;
+-webkit-border-radius:2px;
+}
+ 
+ .fotoperfil  
+ {
+ 	 margin:6px 0px 0px 9px;
+ 	 position:absolute;
+ 	
+ 	
+ }
+ 
+/*********END-CAJA-FOTO-PERFIL*******/
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+/*********MENU-FOOTER-COVER-IMAGEN********/
+ 
+ 
+#menufootercoverimagen > li
+{
+float:left;
+list-style-type:none;
+font-size:13px;
+font-weight:bold;
+line-height:3.3;
+padding:0px 17px;
+position:relative;
+height:43px;
+border-right: 1px solid rgb(233,234,237);
+vertical-align:middle;
+white-space:nowrap;
+ 
+}
+ 
+a{
+	
+	   text-decoration:none;	
+	
+}
+ 
+.mfci1
+{
+background-color:;
+border-left:1px solid rgb(233,234,237);
+margin-left:-50px;
+  	
+}
+ 
+ 
+ 
+.mfci2
+{
+background-color:;
+ 
+ 
+}
+ 
+ 
+.mfci3
+{
+background-color:;
+ 
+ 
+}
+ 
+ 
+.mfci4
+{
+background-color:;
+ 
+ 
+}
+ 
+.mfci5
+{
+background-color:;
+width:42px;
+}
+ 
+ 
+ 
+.imagenpestaña
+{
+width:9px;
+height:5px;
+background-color:;
+position:absolute;
+margin-left:6px;
+top:20px;
+background-image:url("../imagenes/pestañas.png");
+background-position:-121px -108px;
+ 
+}
+ 
+/*******END-MENU-FOOTER-COVER-IMAGEN******/
+ 

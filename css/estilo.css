@@ -1,0 +1,83 @@
+.botonaceptar
+{
+   
+padding: 6px 10px;
+background-color:#4E69A2;
+color:white;
+font-size:12px;
+line-height:26px;
+border-radius:2px;
+text-shadow: 0px -1px 0px rgba(0,0,0.2);
+font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+position:relative;
+margin-top:4px;
+margin-left:4px;
+}
+
+.botonaceptar:link
+{
+   text-decoration:none;
+
+
+}
+
+.botoneliminar
+{
+  position:absolute;
+  margin-top:-25px;
+  margin-left:345px;
+  line-height:26px;
+  padding:0 10px;
+  box-shadow:0px 0px 1px 2px rgba(88, 144, 255, 0.75), 0px 1px 1px rgba(0, 0, 0, 0.15);
+  font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+  font-size:12px;
+  color:#4E5665;
+  outline: medium none;
+  
+  -moz-box-sizing: content-box;
+  background: url('../sprite/wL6VQj7Ab77.png') repeat-x scroll 0% 0% padding-box #F6F7F8;
+border: 1px solid;
+border-radius: 2px;
+
+
+}
+
+
+.botoneliminaramigo
+{
+  position:absolute;
+  margin-top:-25px;
+  margin-left:125px;
+  line-height:26px;
+  padding:0 10px;
+  box-shadow:0px 0px 1px 2px rgba(88, 144, 255, 0.75), 0px 1px 1px rgba(0, 0, 0, 0.15);
+  font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+  font-size:12px;
+  color:#4E5665;
+  outline: medium none;
+  text-decoration:none;
+  -moz-box-sizing: content-box;
+  background: url('../sprite/wL6VQj7Ab77.png') repeat-x scroll 0% 0% padding-box #F6F7F8;
+border: 1px solid;
+border-radius: 2px;
+
+
+}
+
+.nombreamigo
+{
+	
+	text-decoration:none;
+}
+
+body
+{
+
+background: beige;
+}
+ 
+ .botoneliminar:link
+ {
+   text-decoration:none;
+   
+ }
